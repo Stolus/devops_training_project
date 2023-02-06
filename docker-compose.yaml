@@ -1,3 +1,5 @@
+# poustawiałbym sobie tutaj jakieś zmienne środowiskowe dla każdego z serwisów
+
 version: '3.7'
 services:
   measurement_api:

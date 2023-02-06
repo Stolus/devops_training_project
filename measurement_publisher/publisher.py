@@ -1,5 +1,6 @@
 from google.cloud import pubsub_v1
 
+# to też bym wyciągnął do configa
 project_id = "project-id"
 topic_name = "topic-name"
 

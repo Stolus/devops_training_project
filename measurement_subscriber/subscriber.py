@@ -1,5 +1,6 @@
 from google.cloud import pubsub_v1
 
+# to też bym wyciągnął do configa
 project_id = "this-project-id"
 subscription_name = "this-subscription-name"
 
