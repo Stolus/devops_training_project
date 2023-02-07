@@ -1,0 +1,18 @@
+version: '3.7'
+services:
+  measurement_api:
+    build: measurement_api
+    ports:
+      - "5000:5000"
+
+  measurement_publisher:
+    build: measurement_publisher
+
+  measurement_subscriber:
+    build: measurement_subscriber
+
+
+
+
+
+
